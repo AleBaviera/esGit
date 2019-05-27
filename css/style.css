@@ -15,5 +15,10 @@ body{
   background-size: cover;
   background-size: cover;
   background-size: cover;
-  }
+}
+.box{
+  width: 60%;
+  height:40%;
+  margin: auto;
+  background-color: #3456;
 }
