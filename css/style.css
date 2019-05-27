@@ -19,6 +19,7 @@ body{
 .box{
   width: 60%;
   height:40%;
-  margin: auto;
+  margin: 50px 30px;
+  padding: 20px 40px;
   background-color: #3456;
 }
